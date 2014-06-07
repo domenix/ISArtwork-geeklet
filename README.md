@@ -1,7 +1,7 @@
-BTSpotifyGeeklet
-================
-
-Geeklet for Spotify player, shows track info and artwork
+ISArtwork-Geeklet
+============
+Geeklet for Spotify and iTunes player, shows track info and album artwork.<br/>
+Works with the GeekTool software on OS X.
 
 Instructions
 ------------
