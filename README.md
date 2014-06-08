@@ -1,7 +1,8 @@
 ISArtwork geeklet
 ============
 Geeklet for Spotify and iTunes player, shows track info and album artwork.<br/>
-Works with the GeekTool software on OS X.
+Works with the GeekTool software on OS X.<br/>
+Showing album artwork works only with spotify at this time, <br/>on the albumart's place an iTunes logo will show up instead.
 
 Instructions
 ------------
