@@ -10,17 +10,17 @@ Instructions
 
 
 <ol>
-<li>Download the zip file from <a href="https://github.com/domenix/ISArtwork-geeklet/releases">releases</a> tab<br/>
+<li>Download the zip file from <a href="https://github.com/domenix/ISArtwork-geeklet/releases">releases</a> tab
 
-<li>Decompress the downloaded isartwork.zip<br/>
+<li>Decompress the downloaded isartwork.zip
 
 <li>Copy the contents of 'pictures' and 'glets' folders together <br/> with the isartwork.scpt file to a prefered folder on your computer<br/><br/>Default path:<br/>
 
-/Users/YOUR_USER_NAME/Documents/Tools/Geektool/ISArtwork/<br/>
+/Users/YOUR_USER_NAME/Documents/Tools/Geektool/ISArtwork/
 
-<li>Open each .glet file in GeekTool, click on YES on every pop-up window<br/>
-Change the AlbumArt geeklet's and the other geeklet's path if required<br/>
-<li>Rearrange the position of the geeklets and modify their colors to your taste<br/>
+<li>Open each .glet file in GeekTool, click on YES on every pop-up window
+Change the AlbumArt geeklet's and the other geeklet's path if required
+<li>Rearrange the position of the geeklets and modify their colors to your taste
 Don't forget to double-check the refresh rate of the geeklets
 </ol>
 
