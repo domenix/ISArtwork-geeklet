@@ -61,11 +61,10 @@ Without arguments
 
 **Credits**
 -----
-```
-Original version made by Luc-Olivier Dumais-Blais
-Modified from https://github.com/Lucconouche/SpotifyNowPlaying
-Forked from https://github.com/bryantung/BTSpotifyGeeklet
-```
+
+Original version made by Luc-Olivier Dumais-Blais<br/>
+Modified from <a>https://github.com/Lucconouche/SpotifyNowPlaying</a><br/>
+Forked from <a>https://github.com/bryantung/BTSpotifyGeeklet</a>
 **License**
 -----
 ISArtwork is licensed under the <a href="https://github.com/domenix/ISArtwork-geeklet/blob/master/LICENSE.md">MIT</a> license.
