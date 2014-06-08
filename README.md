@@ -68,4 +68,4 @@ Forked from https://github.com/bryantung/BTSpotifyGeeklet
 ```
 **License**
 -----
-ISArtwork is licensed under the <a href="">MIT</a> license.
+ISArtwork is licensed under the <a href="https://github.com/domenix/ISArtwork-geeklet/blob/master/LICENSE.md">MIT</a> license.
