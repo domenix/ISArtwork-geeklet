@@ -46,10 +46,9 @@ Can be used with only one shell geeklet and with one image geeklet.<br/>The imag
 osascript path_to_script           // return all information with correct word-wrapping
 ```
 
-Screenshots
+**Screenshots**
 ----------
-Spotify playing
-<br/>
+Spotify playing<br/>
 <img src="https://raw.githubusercontent.com/domenix/ISArtwork-geeklet/master/screenshots/01.png" width=500></img>
 <br/>
 iTunes Playing
@@ -60,12 +59,13 @@ Without arguments
 <br/>
 <img src="https://raw.githubusercontent.com/domenix/ISArtwork-geeklet/master/screenshots/03.png" width=500></img>
 
-Credit
-------
+**Credits**
+-----
 ```
-AppleScript to show current song and artwork in Geektool
 Original version made by Luc-Olivier Dumais-Blais
-```
-
-Modified from https://github.com/Lucconouche/SpotifyNowPlaying<br/>
+Modified from https://github.com/Lucconouche/SpotifyNowPlaying
 Forked from https://github.com/bryantung/BTSpotifyGeeklet
+```
+**License**
+-----
+ISArtwork is licensed under the <a href="">MIT</a> license.
