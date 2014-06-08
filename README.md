@@ -2,7 +2,7 @@ ISArtwork geeklet
 ============
 Geeklet for Spotify and iTunes player, shows track info and album artwork.<br/>
 Works with the <a href="http://projects.tynsoe.org/en/geektool/download.php">GeekTool</a> software on OS X.<br/>
-Showing album artwork works only with spotify at this time, <br/>on the albumart's place an iTunes logo will show up instead.
+Showing album artwork works only with Spotify at this time, <br/>on the albumart's place an iTunes logo will show up instead.
 
 Instructions
 ------------
@@ -21,7 +21,7 @@ Instructions
 <li>Open each .glet file in GeekTool, click on YES on every pop-up window
 Change the AlbumArt geeklet's and the other geeklet's path if required
 <li>Rearrange the position of the geeklets and modify their colors to your taste
-Don't forget to double-check the refresh rate of the geeklets
+<br>Don't forget to double-check the refresh rate of the geeklets, which is preferably 1 second.
 </ol>
 
 
@@ -46,15 +46,19 @@ Can be used with only one shell geeklet and with one image geeklet.<br/>The imag
 osascript path_to_script           // return all information with correct word-wrapping
 ```
 
-Refresh geeklets with duration of 1-5 secs, depending on your preference
-
 Screenshots
 ----------
-Spotify playing<br/>
+Spotify playing
+<br/>
 <img src="https://raw.githubusercontent.com/domenix/ISArtwork-geeklet/master/screenshots/01.png" width=500></img>
 <br/>
-iTunes Playing<br/>
+iTunes Playing
+<br/>
 <img src="https://raw.githubusercontent.com/domenix/ISArtwork-geeklet/master/screenshots/02.png" width=500></img>
+<br/>
+Without arguments
+<br/>
+<img src="https://raw.githubusercontent.com/domenix/ISArtwork-geeklet/master/screenshots/03.png" width=500></img>
 
 Credit
 ------
