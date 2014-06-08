@@ -6,7 +6,7 @@ Showing album artwork works only with spotify at this time, <br/>on the albumart
 
 Instructions
 ------------
-###Easy setup<br/>
+###**Easy setup**<br/>
 <ol>
 <li>download the zip file from <a href="https://github.com/bryantung/BTSpotifyGeeklet/releases">releases</a> tab
 <li>decompress the downloaded glet.zip
