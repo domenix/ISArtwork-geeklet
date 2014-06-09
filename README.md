@@ -24,7 +24,7 @@ Instructions
     
 
 4. Open each .glet file in GeekTool, click on YES on every pop-up window
-5. Change the AlbumArt geeklet's and the other geeklet's path according to your username
+5. Change the albumartwork geeklet's and the other geeklet's path according to your username
 6. Rearrange the position of the geeklets and modify their colors to your taste
 7. Don't forget to double-check the refresh rate of the geeklets, which is preferably 1 second.
 
