@@ -62,9 +62,8 @@ Without arguments
 **Credits**
 -----
 
-Original version made by Luc-Olivier Dumais-Blais<br/>
-Modified from <a>https://github.com/Lucconouche/SpotifyNowPlaying</a><br/>
-Forked from <a>https://github.com/bryantung/BTSpotifyGeeklet</a>
+<a href="https://github.com/Lucconouche/SpotifyNowPlaying">Original version</a> made by <a href="https://github.com/Lucconouche">Luc-Olivier Dumais-Blais</a><br/>
+<a href="https://github.com/bryantung/BTSpotifyGeeklet">Master branch</a> made by <a href="https://github.com/bryantung">Bryan Tung</a>
 **License**
 -----
 ISArtwork is licensed under the <a href="https://github.com/domenix/ISArtwork-geeklet/blob/master/LICENSE.md">MIT</a> license.
