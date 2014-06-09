@@ -17,8 +17,14 @@ Instructions
 3. Copy the contents of 'pictures' and 'glets' folders together <br/> with the isartwork.scpt file to a prefered folder on your computer<br/><br/>Default path:<br/>
 /Users/YOUR_USER_NAME/Documents/Tools/Geektool/ISArtwork/
 
+    You should see something like this:
+    
+    <img src="https://raw.githubusercontent.com/domenix/ISArtwork-geeklet/master/screenshots/04.png" width=300></img>
+    
+    
+
 4. Open each .glet file in GeekTool, click on YES on every pop-up window
-5. Change the AlbumArt geeklet's and the other geeklet's path if required
+5. Change the AlbumArt geeklet's and the other geeklet's path according to your username
 6. Rearrange the position of the geeklets and modify their colors to your taste
 7. Don't forget to double-check the refresh rate of the geeklets, which is preferably 1 second.
 
